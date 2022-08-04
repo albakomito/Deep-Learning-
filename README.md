@@ -1,4 +1,4 @@
-# Assignment 14: LSTM stock predictors: Closing Prices vs. Fear & Greed 'FNG') Index
+# LSTM stock predictors: Closing Prices vs. Fear & Greed 'FNG') Index
 
 ## Notebook 1: 1_lstm_stock_predictor_closing_prices
 In this notebook we:  
