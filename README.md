@@ -14,11 +14,11 @@
 
 
 ## Concluding Questions & Answers (to confirm): 
-### Q: Which model has a lower loss?
-### A: lstm_stock_predictor_closing_prices has a lower loss when using 10 epochs. 
+* Q: Which model has a lower loss?
+* A: lstm_stock_predictor_closing_prices has a lower loss when using 10 epochs. 
 
-### Q: Which model tracks the actual values better over time?
-### A:lstm_stock_predictor_closing_prices tracks the actual values better, given its (X_test,  y_test) evaluation score of 0.04780703783035278. 
+* Q: Which model tracks the actual values better over time?
+* A:lstm_stock_predictor_closing_prices tracks the actual values better, given its (X_test,  y_test) evaluation score of 0.04780703783035278. 
 
-### Q: Which window size works best for the model?
-### A: 10... 
+* Q: Which window size works best for the model?
+* A: 10... 
